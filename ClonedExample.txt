@@ -1,2 +1,3 @@
 new file added
-text added to trhis file
+text added to this file
+new text added to this file after 
