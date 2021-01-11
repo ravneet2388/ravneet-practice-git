@@ -1,7 +1,9 @@
-red
+maroon
 blue
-green
+light green
 black
 white
 yellow
 gray
+brown
+sea green
