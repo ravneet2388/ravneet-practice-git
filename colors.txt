@@ -1,7 +1,7 @@
-maroon
+maroon utility
 blue
 light green tea color
-black
+black utility
 white
 yellow
 gray
